@@ -1,0 +1,13 @@
+島根県主催のRuby合宿2011夏（2回目の方）でチーム作成したゲームです。
+http://www.pref.shimane.lg.jp/itsangyo/rubycamp.html
+
+言語はもちろんRubyで、DXRubyというライブラリを利用しています。
+DXRuby　：http://dxruby.sourceforge.jp/
+残念ながら動作環境はWindowsのみとなります。
+
+ゲーム名：しまねのために
+内容　　：縦スクロールのシューティングゲーム
+開発期間：約3日　総勢5名のチーム（内プログラマ2名）
+
+RubyWorld Conference 2011に出展されました。
+http://www.rubyworld-conf.org/ja/
