@@ -1,5 +1,5 @@
 require File.dirname(__FILE__)  + '/character'
-require 'D:\ruby_camp_2010\src\project\exe\scenes/game'
+require Dir.pwd + '/scenes/game'
 
 class Player < Character
   attr_accessor :y, :x, :s
