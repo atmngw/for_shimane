@@ -22,3 +22,11 @@ http://www.rubyworld-conf.org/ja/
 Ruby 1.87
 DXRuby 1.0.9以上(WIndowsのみ)
 DXRuby　：http://dxruby.sourceforge.jp/
+
+-------------------------------
+実行方法
+-------------------------------
+for_shimane直下に移動
+ruby main.rb
+十字キーで移動、スペースキーで攻撃
+スタート画面、ゲームオーバー画面は(確か)エンターキー
